@@ -28,7 +28,7 @@ function zoomin() {
 } 
  
 function zoomout() {  
-   document.getElementById("geeks").style.width = (600) + "px"; 
+   document.getElementById("geeks").style.width = (400) + "px"; 
 } 
 var acc = document.getElementsByClassName("accordion");
 var i;
